@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">✨ Criando bugs since 2025<br>📚 Estudando atualmente HTML5 CSS3</p>
+<p align="left">✨ Criando bugs since 2025<br>
+  📚 Estudando atualmente HTML5 CSS3</p>
+   Contat: souto2096@gmail.com <br>
 
 ###
 
