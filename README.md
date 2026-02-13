@@ -1,19 +1,39 @@
-<p align="left">My name Lucas Souto</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
-<h2 align="left"></h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-souto-55aa63309/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/soutt0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
-<p align="left">✨ Criando bugs since 2025<br>
-  📚 Estudando atualmente HTML5 CSS3</p>
-   Contat: souto2096@gmail.com <br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=v1souto.v1souto&"  />
+</div>
 
 ###
 
-<h2 align="left">I code with</h2>
-HTML5 CSS3
+<h1 align="center">👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim:</h3>
+
+###
+
+<p align="left">Me chamo Lucas<br><br>- 🏫 Cursando Engenharia de Sofware<br>- 📚 Atualmente estou estudando HTML5 e CSS3<br>- ☀️ Morador da cidade quente Palmas</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -25,14 +45,12 @@ HTML5 CSS3
 
 ###
 
-<img src="https://raw.githubusercontent.com/v1souto/v1souto/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🔥  Stats</h3>
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/soutt0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=v1souto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
