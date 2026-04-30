@@ -1,59 +1,88 @@
+# Hi 👋, I'm Lucas Souto
+
+🚀 **Software Engineer | JavaScript & .NET Specialist**  
+🇧🇷 Brazil
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-souto-55aa63309/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/soutt0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=v1souto.v1souto&"  />
 </div>
 
-###
 
-<h1 align="center">👋</h1>
 
-###
+---
 
-<h3 align="left">👩‍💻  Sobre mim:</h3>
+## 🌐 Where to find me
 
-###
+<p align="left">
+  <a href="https://github.com/v1souto">
+    <img src="https://img.shields.io/badge/GitHub-v1souto-181717?style=for-the-badge&logo=github" /> <br>
+  </a>
+  <a href="https://www.instagram.com/soutt0/">
+    <img src="https://img.shields.io/badge/Instagram-@soutt0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <br>
+  </a>
+  <a href="https://www.tiktok.com/@ttv.soutt0">
+    <img src="https://img.shields.io/badge/TikTok-@ttv.soutt0-000000?style=for-the-badge&logo=tiktok" /><br>
+  </a>
+  <a href="https://www.youtube.com/@Soutt0">
+    <img src="https://img.shields.io/badge/YouTube-Soutt0-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /><br>
+  </a>
+</p>
 
-<p align="left">Me chamo Lucas<br><br>- 🏫 Cursando Engenharia de Sofware<br>- 📚 Atualmente estou estudando JavaScript <br>- ☀️ Morador da cidade quente Palmas</p>
+---
 
-###
+## 🧠 What I do
 
-<h3 align="left">🛠 Language and tools</h3>
+-   🏗️ SaaS & High-scale systems
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
 
-###
 
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h3 align="left">🔥  Stats</h3>
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=v1souto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### Backend
 
-###
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+
+
+
+
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=v1souto&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1souto&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
+
